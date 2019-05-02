@@ -14,7 +14,7 @@ public class HomeWork {
 	 * Unicode int.
 	 */
 
-	public static void UnicodeInt() {
+	public static void unicodeInt() {
 		char a = 'D';
 		char c = 'R';
 		char p = 'f';
@@ -27,7 +27,7 @@ public class HomeWork {
 	 * Type conversion.
 	 */
 
-	public static void TypeConversion() {
+	public static void typeConversion() {
 		int a = 150;
 		short b = 32710;
 		char c = 'v';
@@ -53,7 +53,7 @@ public class HomeWork {
 	/**
 	 * Auto box.
 	 */
-	public static void AutoBox() {
+	public static void autoBox() {
 		int a = 150;
 		Integer a1 = a;
 		boolean b = true;
@@ -75,7 +75,7 @@ public class HomeWork {
 	/**
 	 * Prog string.
 	 */
-	public static void ProgString() {
+	public static void progString() {
 		StringBuilder stringbuilder1 = new StringBuilder("Core Java Volume I Fundamentals");
 		StringBuilder stringbuilder2 = new StringBuilder("Core Java Volume II Advanced Topics");
 		StringBuilder stringbuilder3 = new StringBuilder(stringbuilder2);
