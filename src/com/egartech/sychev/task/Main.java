@@ -47,16 +47,16 @@ public class Main {
 
 			switch (key) {
 			case 1:
-				HomeWork.UnicodeInt();
+				HomeWork.unicodeInt();
 				break;
 			case 2:
-				HomeWork.TypeConversion();
+				HomeWork.typeConversion();
 				break;
 			case 3:
-				HomeWork.AutoBox();
+				HomeWork.autoBox();
 				break;
 			case 4:
-				HomeWork.ProgString();
+				HomeWork.progString();
 				break;
 
 			}
